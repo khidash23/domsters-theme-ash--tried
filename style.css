@@ -1,0 +1,23 @@
+/*
+Theme Name: Domster Basic Theme
+Author: reguv760
+Author URI: http://tessellationdesign.com/
+Description: A simple theme to showcase how to build a theme from Twitter Bootstrap using Domster site as reference
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Code and take over the world line-by-line
+*/
+
+.sidebar {
+  margin-top: 40px;
+  color: #444;
+}
+.sidebar h3 {
+  color: #888;
+}
+
+.main-nav ul
+{
+}
